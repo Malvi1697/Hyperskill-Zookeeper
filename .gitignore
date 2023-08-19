@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Zookeeper (Python)/*
+!/Zookeeper (Python)/task/
+/Zookeeper (Python)/task/*
+!/Zookeeper (Python)/task/zookeeper
